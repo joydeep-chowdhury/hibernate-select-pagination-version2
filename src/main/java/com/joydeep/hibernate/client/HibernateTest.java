@@ -26,7 +26,7 @@ public class HibernateTest {
        {
     	   System.out.println(u);
        }
-        //Temp is now detached and not racked by hibernate since session is closed
+      
 	}
 
 }
